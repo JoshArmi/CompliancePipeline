@@ -9,6 +9,11 @@ mypy = "*"
 
 [packages]
 aws-cdk-core = "*"
+aws-cdk-aws-codepipeline = "*"
+aws-cdk-aws-codepipeline-actions = "*"
+aws-cdk-aws-codecommit = "*"
+aws-cdk-aws-iam = "*"
+aws-cdk-aws-codebuild = "*"
 
 [requires]
 python_version = "3.7"
